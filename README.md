@@ -27,7 +27,7 @@ Trabalho de Conclusão de Curso:
 Códigos finais responsáveis pela seção de "resultados" na monografia:
 
 - src/CNN/modelofinal.ipynb
-- SVM e KNN .ipynb
+- src/PCA_KNN_SVM/SVM e KNN .ipynb
 - src/PCA_KNN_SVM/SVM2.ipynb
 
 Link do dataset da CNN: src/Database/DatasetLink.txt
