@@ -21,13 +21,16 @@ Trabalho de Conclusão de Curso:
     - DatasetLink.txt
   - PCA_KNN_SVM
     - calc area.ipynb
+    - Suja Placa.ipynb
     - SVM e KNN .ipynb
     - SVM2.ipynb
+    - definir_bordas.ipynb
 
 Códigos finais responsáveis pela seção de "resultados" na monografia:
 
 - src/CNN/modelofinal.ipynb
 - src/PCA_KNN_SVM/SVM e KNN .ipynb
 - src/PCA_KNN_SVM/SVM2.ipynb
-
+- src/PCA_KNN_SVM/definir_bordas.ipynb
+- src/PCA_KNN_SVM/Suja Placa.ipynb
 Link do dataset da CNN: src/Database/DatasetLink.txt
